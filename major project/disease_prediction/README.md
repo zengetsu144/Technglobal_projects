@@ -3,7 +3,7 @@
 A machine learning project that predicts the likelihood of **diabetes** and **heart disease** from patient health data, with a Streamlit web interface.
 
 **Author:** Soumya, BTech CSE, KIIT University
-**Internship:** InternsElite
+
 
 > Educational project. Predictions are not a medical diagnosis.
 
@@ -89,6 +89,4 @@ Plots are saved in `outputs/`: correlation matrices, confusion matrices and ROC 
 - UCI Machine Learning Repository: https://archive.ics.uci.edu
 - scikit-learn: Pedregosa et al. (2011), JMLR 12, 2825-2830.
 
-## Acknowledgements
 
-Developed during my internship at InternsElite. Used Claude (Anthropic) as an AI assistant for code guidance; I ran, tested and modified the code myself.
